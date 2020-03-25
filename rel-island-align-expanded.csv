@@ -1,0 +1,281 @@
+ID:|BLOCKNAME|INBLOCK#|Sentence:|Original:|@@1@@|@@2@@|@@3@@|@@4@@|
+1|extsite_relinobj|0|John met the student that Sara liked hanging out with .|1|||||
+2|extsite_relinobj|0|John met the student that hanging out with amused Sara .|2||1|||
+3|extsite_relinobj|1|John met the student that Sara liked spending time with .|1|||||
+4|extsite_relinobj|1|John met the student that spending time with amused Sara .|2||1|||
+5|extsite_relinobj|2|John met the student that Sara liked talking to .|1|||||
+6|extsite_relinobj|2|John met the student that talking to amused Sara .|2||1|||
+7|extsite_relinobj|3|John met the student that Sara liked fighting with .|1|||||
+8|extsite_relinobj|3|John met the student that fighting with amused Sara .|2||1|||
+9|extsite_relinobj|4|John met the student  Sara liked hanging out with .|1|5||||
+10|extsite_relinobj|4|John met the student  hanging out with amused Sara .|2|5|1|||
+11|extsite_relinobj|5|John met the student  Sara liked spending time with .|1|5||||
+12|extsite_relinobj|5|John met the student  spending time with amused Sara .|2|5|1|||
+13|extsite_relinobj|6|John met the student  Sara liked talking to .|1|5||||
+14|extsite_relinobj|6|John met the student  talking to amused Sara .|2|5|1|||
+15|extsite_relinobj|7|John met the student  Sara liked fighting with .|1|5||||
+16|extsite_relinobj|7|John met the student  fighting with amused Sara .|2|5|1|||
+17|extsite_relinobj|8|John met the student who Sara liked hanging out with .|1|||||
+18|extsite_relinobj|8|John met the student who hanging out with amused Sara .|2||1|||
+19|extsite_relinobj|9|John met the student who Sara liked spending time with .|1|||||
+20|extsite_relinobj|9|John met the student who spending time with amused Sara .|2||1|||
+21|extsite_relinobj|10|John met the student who Sara liked talking to .|1|||||
+22|extsite_relinobj|10|John met the student who talking to amused Sara .|2||1|||
+23|extsite_relinobj|11|John met the student who Sara liked fighting with .|1|||||
+24|extsite_relinobj|11|John met the student who fighting with amused Sara .|2||1|||
+25|extsite_relinobj|12|John met the girl that Sara liked hanging out with .|1|||||
+26|extsite_relinobj|12|John met the girl that hanging out with amused Sara .|2||1|||
+27|extsite_relinobj|13|John met the girl that Sara liked spending time with .|1|||||
+28|extsite_relinobj|13|John met the girl that spending time with amused Sara .|2||1|||
+29|extsite_relinobj|14|John met the girl that Sara liked talking to .|1|||||
+30|extsite_relinobj|14|John met the girl that talking to amused Sara .|2||1|||
+31|extsite_relinobj|15|John met the girl that Sara liked fighting with .|1|||||
+32|extsite_relinobj|15|John met the girl that fighting with amused Sara .|2||1|||
+33|extsite_relinobj|16|John met the girl  Sara liked hanging out with .|1|5||||
+34|extsite_relinobj|16|John met the girl  hanging out with amused Sara .|2|5|1|||
+35|extsite_relinobj|17|John met the girl  Sara liked spending time with .|1|5||||
+36|extsite_relinobj|17|John met the girl  spending time with amused Sara .|2|5|1|||
+37|extsite_relinobj|18|John met the girl  Sara liked talking to .|1|5||||
+38|extsite_relinobj|18|John met the girl  talking to amused Sara .|2|5|1|||
+39|extsite_relinobj|19|John met the girl  Sara liked fighting with .|1|5||||
+40|extsite_relinobj|19|John met the girl  fighting with amused Sara .|2|5|1|||
+41|extsite_relinobj|20|John met the girl who Sara liked hanging out with .|1|||||
+42|extsite_relinobj|20|John met the girl who hanging out with amused Sara .|2||1|||
+43|extsite_relinobj|21|John met the girl who Sara liked spending time with .|1|||||
+44|extsite_relinobj|21|John met the girl who spending time with amused Sara .|2||1|||
+45|extsite_relinobj|22|John met the girl who Sara liked talking to .|1|||||
+46|extsite_relinobj|22|John met the girl who talking to amused Sara .|2||1|||
+47|extsite_relinobj|23|John met the girl who Sara liked fighting with .|1|||||
+48|extsite_relinobj|23|John met the girl who fighting with amused Sara .|2||1|||
+49|extsite_relinobj|24|John met the classmate that Sara liked hanging out with .|1|||||
+50|extsite_relinobj|24|John met the classmate that hanging out with amused Sara .|2||1|||
+51|extsite_relinobj|25|John met the classmate that Sara liked spending time with .|1|||||
+52|extsite_relinobj|25|John met the classmate that spending time with amused Sara .|2||1|||
+53|extsite_relinobj|26|John met the classmate that Sara liked talking to .|1|||||
+54|extsite_relinobj|26|John met the classmate that talking to amused Sara .|2||1|||
+55|extsite_relinobj|27|John met the classmate that Sara liked fighting with .|1|||||
+56|extsite_relinobj|27|John met the classmate that fighting with amused Sara .|2||1|||
+57|extsite_relinobj|28|John met the classmate  Sara liked hanging out with .|1|5||||
+58|extsite_relinobj|28|John met the classmate  hanging out with amused Sara .|2|5|1|||
+59|extsite_relinobj|29|John met the classmate  Sara liked spending time with .|1|5||||
+60|extsite_relinobj|29|John met the classmate  spending time with amused Sara .|2|5|1|||
+61|extsite_relinobj|30|John met the classmate  Sara liked talking to .|1|5||||
+62|extsite_relinobj|30|John met the classmate  talking to amused Sara .|2|5|1|||
+63|extsite_relinobj|31|John met the classmate  Sara liked fighting with .|1|5||||
+64|extsite_relinobj|31|John met the classmate  fighting with amused Sara .|2|5|1|||
+65|extsite_relinobj|32|John met the classmate who Sara liked hanging out with .|1|||||
+66|extsite_relinobj|32|John met the classmate who hanging out with amused Sara .|2||1|||
+67|extsite_relinobj|33|John met the classmate who Sara liked spending time with .|1|||||
+68|extsite_relinobj|33|John met the classmate who spending time with amused Sara .|2||1|||
+69|extsite_relinobj|34|John met the classmate who Sara liked talking to .|1|||||
+70|extsite_relinobj|34|John met the classmate who talking to amused Sara .|2||1|||
+71|extsite_relinobj|35|John met the classmate who Sara liked fighting with .|1|||||
+72|extsite_relinobj|35|John met the classmate who fighting with amused Sara .|2||1|||
+73|extsite_relinobj|36|John met the person that Sara liked hanging out with .|1|||||
+74|extsite_relinobj|36|John met the person that hanging out with amused Sara .|2||1|||
+75|extsite_relinobj|37|John met the person that Sara liked spending time with .|1|||||
+76|extsite_relinobj|37|John met the person that spending time with amused Sara .|2||1|||
+77|extsite_relinobj|38|John met the person that Sara liked talking to .|1|||||
+78|extsite_relinobj|38|John met the person that talking to amused Sara .|2||1|||
+79|extsite_relinobj|39|John met the person that Sara liked fighting with .|1|||||
+80|extsite_relinobj|39|John met the person that fighting with amused Sara .|2||1|||
+81|extsite_relinobj|40|John met the person  Sara liked hanging out with .|1|5||||
+82|extsite_relinobj|40|John met the person  hanging out with amused Sara .|2|5|1|||
+83|extsite_relinobj|41|John met the person  Sara liked spending time with .|1|5||||
+84|extsite_relinobj|41|John met the person  spending time with amused Sara .|2|5|1|||
+85|extsite_relinobj|42|John met the person  Sara liked talking to .|1|5||||
+86|extsite_relinobj|42|John met the person  talking to amused Sara .|2|5|1|||
+87|extsite_relinobj|43|John met the person  Sara liked fighting with .|1|5||||
+88|extsite_relinobj|43|John met the person  fighting with amused Sara .|2|5|1|||
+89|extsite_relinobj|44|John met the person who Sara liked hanging out with .|1|||||
+90|extsite_relinobj|44|John met the person who hanging out with amused Sara .|2||1|||
+91|extsite_relinobj|45|John met the person who Sara liked spending time with .|1|||||
+92|extsite_relinobj|45|John met the person who spending time with amused Sara .|2||1|||
+93|extsite_relinobj|46|John met the person who Sara liked talking to .|1|||||
+94|extsite_relinobj|46|John met the person who talking to amused Sara .|2||1|||
+95|extsite_relinobj|47|John met the person who Sara liked fighting with .|1|||||
+96|extsite_relinobj|47|John met the person who fighting with amused Sara .|2||1|||
+97|extsite_relinobj|48|John met the professor that Sara liked hanging out with .|1|||||
+98|extsite_relinobj|48|John met the professor that hanging out with amused Sara .|2||1|||
+99|extsite_relinobj|49|John met the professor that Sara liked spending time with .|1|||||
+100|extsite_relinobj|49|John met the professor that spending time with amused Sara .|2||1|||
+101|extsite_relinobj|50|John met the professor that Sara liked talking to .|1|||||
+102|extsite_relinobj|50|John met the professor that talking to amused Sara .|2||1|||
+103|extsite_relinobj|51|John met the professor that Sara liked fighting with .|1|||||
+104|extsite_relinobj|51|John met the professor that fighting with amused Sara .|2||1|||
+105|extsite_relinobj|52|John met the professor  Sara liked hanging out with .|1|5||||
+106|extsite_relinobj|52|John met the professor  hanging out with amused Sara .|2|5|1|||
+107|extsite_relinobj|53|John met the professor  Sara liked spending time with .|1|5||||
+108|extsite_relinobj|53|John met the professor  spending time with amused Sara .|2|5|1|||
+109|extsite_relinobj|54|John met the professor  Sara liked talking to .|1|5||||
+110|extsite_relinobj|54|John met the professor  talking to amused Sara .|2|5|1|||
+111|extsite_relinobj|55|John met the professor  Sara liked fighting with .|1|5||||
+112|extsite_relinobj|55|John met the professor  fighting with amused Sara .|2|5|1|||
+113|extsite_relinobj|56|John met the professor who Sara liked hanging out with .|1|||||
+114|extsite_relinobj|56|John met the professor who hanging out with amused Sara .|2||1|||
+115|extsite_relinobj|57|John met the professor who Sara liked spending time with .|1|||||
+116|extsite_relinobj|57|John met the professor who spending time with amused Sara .|2||1|||
+117|extsite_relinobj|58|John met the professor who Sara liked talking to .|1|||||
+118|extsite_relinobj|58|John met the professor who talking to amused Sara .|2||1|||
+119|extsite_relinobj|59|John met the professor who Sara liked fighting with .|1|||||
+120|extsite_relinobj|59|John met the professor who fighting with amused Sara .|2||1|||
+121|npcompl_extsite_relinobj|0|John met the student that Mary liked the friend who was hanging out with .|3||||1|
+122|npcompl_extsite_relinobj|0|John met the student that the friend who was hanging out with amused Mary .|4||1||1|
+123|npcompl_extsite_relinobj|1|John met the student that Mary liked the friend who was spending time with .|3||||1|
+124|npcompl_extsite_relinobj|1|John met the student that the friend who was spending time with amused Mary .|4||1||1|
+125|npcompl_extsite_relinobj|2|John met the student that Mary liked the friend who was talking to .|3||||1|
+126|npcompl_extsite_relinobj|2|John met the student that the friend who was talking to amused Mary .|4||1||1|
+127|npcompl_extsite_relinobj|3|John met the student that Mary liked the friend who was fighting with .|3||||1|
+128|npcompl_extsite_relinobj|3|John met the student that the friend who was fighting with amused Mary .|4||1||1|
+129|npcompl_extsite_relinobj|4|John met the student that Mary liked the woman who was hanging out with .|3||||1|
+130|npcompl_extsite_relinobj|4|John met the student that the woman who was hanging out with amused Mary .|4||1||1|
+131|npcompl_extsite_relinobj|5|John met the student that Mary liked the woman who was spending time with .|3||||1|
+132|npcompl_extsite_relinobj|5|John met the student that the woman who was spending time with amused Mary .|4||1||1|
+133|npcompl_extsite_relinobj|6|John met the student that Mary liked the woman who was talking to .|3||||1|
+134|npcompl_extsite_relinobj|6|John met the student that the woman who was talking to amused Mary .|4||1||1|
+135|npcompl_extsite_relinobj|7|John met the student that Mary liked the woman who was fighting with .|3||||1|
+136|npcompl_extsite_relinobj|7|John met the student that the woman who was fighting with amused Mary .|4||1||1|
+137|npcompl_extsite_relinobj|8|John met the student  Mary liked the friend who was hanging out with .|3|5|||1|
+138|npcompl_extsite_relinobj|8|John met the student  the friend who was hanging out with amused Mary .|4|5|1||1|
+139|npcompl_extsite_relinobj|9|John met the student  Mary liked the friend who was spending time with .|3|5|||1|
+140|npcompl_extsite_relinobj|9|John met the student  the friend who was spending time with amused Mary .|4|5|1||1|
+141|npcompl_extsite_relinobj|10|John met the student  Mary liked the friend who was talking to .|3|5|||1|
+142|npcompl_extsite_relinobj|10|John met the student  the friend who was talking to amused Mary .|4|5|1||1|
+143|npcompl_extsite_relinobj|11|John met the student  Mary liked the friend who was fighting with .|3|5|||1|
+144|npcompl_extsite_relinobj|11|John met the student  the friend who was fighting with amused Mary .|4|5|1||1|
+145|npcompl_extsite_relinobj|12|John met the student  Mary liked the woman who was hanging out with .|3|5|||1|
+146|npcompl_extsite_relinobj|12|John met the student  the woman who was hanging out with amused Mary .|4|5|1||1|
+147|npcompl_extsite_relinobj|13|John met the student  Mary liked the woman who was spending time with .|3|5|||1|
+148|npcompl_extsite_relinobj|13|John met the student  the woman who was spending time with amused Mary .|4|5|1||1|
+149|npcompl_extsite_relinobj|14|John met the student  Mary liked the woman who was talking to .|3|5|||1|
+150|npcompl_extsite_relinobj|14|John met the student  the woman who was talking to amused Mary .|4|5|1||1|
+151|npcompl_extsite_relinobj|15|John met the student  Mary liked the woman who was fighting with .|3|5|||1|
+152|npcompl_extsite_relinobj|15|John met the student  the woman who was fighting with amused Mary .|4|5|1||1|
+153|npcompl_extsite_relinobj|16|John met the girl that Mary liked the friend who was hanging out with .|3||||1|
+154|npcompl_extsite_relinobj|16|John met the girl that the friend who was hanging out with amused Mary .|4||1||1|
+155|npcompl_extsite_relinobj|17|John met the girl that Mary liked the friend who was spending time with .|3||||1|
+156|npcompl_extsite_relinobj|17|John met the girl that the friend who was spending time with amused Mary .|4||1||1|
+157|npcompl_extsite_relinobj|18|John met the girl that Mary liked the friend who was talking to .|3||||1|
+158|npcompl_extsite_relinobj|18|John met the girl that the friend who was talking to amused Mary .|4||1||1|
+159|npcompl_extsite_relinobj|19|John met the girl that Mary liked the friend who was fighting with .|3||||1|
+160|npcompl_extsite_relinobj|19|John met the girl that the friend who was fighting with amused Mary .|4||1||1|
+161|npcompl_extsite_relinobj|20|John met the girl that Mary liked the woman who was hanging out with .|3||||1|
+162|npcompl_extsite_relinobj|20|John met the girl that the woman who was hanging out with amused Mary .|4||1||1|
+163|npcompl_extsite_relinobj|21|John met the girl that Mary liked the woman who was spending time with .|3||||1|
+164|npcompl_extsite_relinobj|21|John met the girl that the woman who was spending time with amused Mary .|4||1||1|
+165|npcompl_extsite_relinobj|22|John met the girl that Mary liked the woman who was talking to .|3||||1|
+166|npcompl_extsite_relinobj|22|John met the girl that the woman who was talking to amused Mary .|4||1||1|
+167|npcompl_extsite_relinobj|23|John met the girl that Mary liked the woman who was fighting with .|3||||1|
+168|npcompl_extsite_relinobj|23|John met the girl that the woman who was fighting with amused Mary .|4||1||1|
+169|npcompl_extsite_relinobj|24|John met the girl  Mary liked the friend who was hanging out with .|3|5|||1|
+170|npcompl_extsite_relinobj|24|John met the girl  the friend who was hanging out with amused Mary .|4|5|1||1|
+171|npcompl_extsite_relinobj|25|John met the girl  Mary liked the friend who was spending time with .|3|5|||1|
+172|npcompl_extsite_relinobj|25|John met the girl  the friend who was spending time with amused Mary .|4|5|1||1|
+173|npcompl_extsite_relinobj|26|John met the girl  Mary liked the friend who was talking to .|3|5|||1|
+174|npcompl_extsite_relinobj|26|John met the girl  the friend who was talking to amused Mary .|4|5|1||1|
+175|npcompl_extsite_relinobj|27|John met the girl  Mary liked the friend who was fighting with .|3|5|||1|
+176|npcompl_extsite_relinobj|27|John met the girl  the friend who was fighting with amused Mary .|4|5|1||1|
+177|npcompl_extsite_relinobj|28|John met the girl  Mary liked the woman who was hanging out with .|3|5|||1|
+178|npcompl_extsite_relinobj|28|John met the girl  the woman who was hanging out with amused Mary .|4|5|1||1|
+179|npcompl_extsite_relinobj|29|John met the girl  Mary liked the woman who was spending time with .|3|5|||1|
+180|npcompl_extsite_relinobj|29|John met the girl  the woman who was spending time with amused Mary .|4|5|1||1|
+181|npcompl_extsite_relinobj|30|John met the girl  Mary liked the woman who was talking to .|3|5|||1|
+182|npcompl_extsite_relinobj|30|John met the girl  the woman who was talking to amused Mary .|4|5|1||1|
+183|npcompl_extsite_relinobj|31|John met the girl  Mary liked the woman who was fighting with .|3|5|||1|
+184|npcompl_extsite_relinobj|31|John met the girl  the woman who was fighting with amused Mary .|4|5|1||1|
+185|npcompl_extsite_relinobj|32|John met the classmate that Mary liked the friend who was hanging out with .|3||||1|
+186|npcompl_extsite_relinobj|32|John met the classmate that the friend who was hanging out with amused Mary .|4||1||1|
+187|npcompl_extsite_relinobj|33|John met the classmate that Mary liked the friend who was spending time with .|3||||1|
+188|npcompl_extsite_relinobj|33|John met the classmate that the friend who was spending time with amused Mary .|4||1||1|
+189|npcompl_extsite_relinobj|34|John met the classmate that Mary liked the friend who was talking to .|3||||1|
+190|npcompl_extsite_relinobj|34|John met the classmate that the friend who was talking to amused Mary .|4||1||1|
+191|npcompl_extsite_relinobj|35|John met the classmate that Mary liked the friend who was fighting with .|3||||1|
+192|npcompl_extsite_relinobj|35|John met the classmate that the friend who was fighting with amused Mary .|4||1||1|
+193|npcompl_extsite_relinobj|36|John met the classmate that Mary liked the woman who was hanging out with .|3||||1|
+194|npcompl_extsite_relinobj|36|John met the classmate that the woman who was hanging out with amused Mary .|4||1||1|
+195|npcompl_extsite_relinobj|37|John met the classmate that Mary liked the woman who was spending time with .|3||||1|
+196|npcompl_extsite_relinobj|37|John met the classmate that the woman who was spending time with amused Mary .|4||1||1|
+197|npcompl_extsite_relinobj|38|John met the classmate that Mary liked the woman who was talking to .|3||||1|
+198|npcompl_extsite_relinobj|38|John met the classmate that the woman who was talking to amused Mary .|4||1||1|
+199|npcompl_extsite_relinobj|39|John met the classmate that Mary liked the woman who was fighting with .|3||||1|
+200|npcompl_extsite_relinobj|39|John met the classmate that the woman who was fighting with amused Mary .|4||1||1|
+201|npcompl_extsite_relinobj|40|John met the classmate  Mary liked the friend who was hanging out with .|3|5|||1|
+202|npcompl_extsite_relinobj|40|John met the classmate  the friend who was hanging out with amused Mary .|4|5|1||1|
+203|npcompl_extsite_relinobj|41|John met the classmate  Mary liked the friend who was spending time with .|3|5|||1|
+204|npcompl_extsite_relinobj|41|John met the classmate  the friend who was spending time with amused Mary .|4|5|1||1|
+205|npcompl_extsite_relinobj|42|John met the classmate  Mary liked the friend who was talking to .|3|5|||1|
+206|npcompl_extsite_relinobj|42|John met the classmate  the friend who was talking to amused Mary .|4|5|1||1|
+207|npcompl_extsite_relinobj|43|John met the classmate  Mary liked the friend who was fighting with .|3|5|||1|
+208|npcompl_extsite_relinobj|43|John met the classmate  the friend who was fighting with amused Mary .|4|5|1||1|
+209|npcompl_extsite_relinobj|44|John met the classmate  Mary liked the woman who was hanging out with .|3|5|||1|
+210|npcompl_extsite_relinobj|44|John met the classmate  the woman who was hanging out with amused Mary .|4|5|1||1|
+211|npcompl_extsite_relinobj|45|John met the classmate  Mary liked the woman who was spending time with .|3|5|||1|
+212|npcompl_extsite_relinobj|45|John met the classmate  the woman who was spending time with amused Mary .|4|5|1||1|
+213|npcompl_extsite_relinobj|46|John met the classmate  Mary liked the woman who was talking to .|3|5|||1|
+214|npcompl_extsite_relinobj|46|John met the classmate  the woman who was talking to amused Mary .|4|5|1||1|
+215|npcompl_extsite_relinobj|47|John met the classmate  Mary liked the woman who was fighting with .|3|5|||1|
+216|npcompl_extsite_relinobj|47|John met the classmate  the woman who was fighting with amused Mary .|4|5|1||1|
+217|npcompl_extsite_relinobj|48|John met the person that Mary liked the friend who was hanging out with .|3||||1|
+218|npcompl_extsite_relinobj|48|John met the person that the friend who was hanging out with amused Mary .|4||1||1|
+219|npcompl_extsite_relinobj|49|John met the person that Mary liked the friend who was spending time with .|3||||1|
+220|npcompl_extsite_relinobj|49|John met the person that the friend who was spending time with amused Mary .|4||1||1|
+221|npcompl_extsite_relinobj|50|John met the person that Mary liked the friend who was talking to .|3||||1|
+222|npcompl_extsite_relinobj|50|John met the person that the friend who was talking to amused Mary .|4||1||1|
+223|npcompl_extsite_relinobj|51|John met the person that Mary liked the friend who was fighting with .|3||||1|
+224|npcompl_extsite_relinobj|51|John met the person that the friend who was fighting with amused Mary .|4||1||1|
+225|npcompl_extsite_relinobj|52|John met the person that Mary liked the woman who was hanging out with .|3||||1|
+226|npcompl_extsite_relinobj|52|John met the person that the woman who was hanging out with amused Mary .|4||1||1|
+227|npcompl_extsite_relinobj|53|John met the person that Mary liked the woman who was spending time with .|3||||1|
+228|npcompl_extsite_relinobj|53|John met the person that the woman who was spending time with amused Mary .|4||1||1|
+229|npcompl_extsite_relinobj|54|John met the person that Mary liked the woman who was talking to .|3||||1|
+230|npcompl_extsite_relinobj|54|John met the person that the woman who was talking to amused Mary .|4||1||1|
+231|npcompl_extsite_relinobj|55|John met the person that Mary liked the woman who was fighting with .|3||||1|
+232|npcompl_extsite_relinobj|55|John met the person that the woman who was fighting with amused Mary .|4||1||1|
+233|npcompl_extsite_relinobj|56|John met the person  Mary liked the friend who was hanging out with .|3|5|||1|
+234|npcompl_extsite_relinobj|56|John met the person  the friend who was hanging out with amused Mary .|4|5|1||1|
+235|npcompl_extsite_relinobj|57|John met the person  Mary liked the friend who was spending time with .|3|5|||1|
+236|npcompl_extsite_relinobj|57|John met the person  the friend who was spending time with amused Mary .|4|5|1||1|
+237|npcompl_extsite_relinobj|58|John met the person  Mary liked the friend who was talking to .|3|5|||1|
+238|npcompl_extsite_relinobj|58|John met the person  the friend who was talking to amused Mary .|4|5|1||1|
+239|npcompl_extsite_relinobj|59|John met the person  Mary liked the friend who was fighting with .|3|5|||1|
+240|npcompl_extsite_relinobj|59|John met the person  the friend who was fighting with amused Mary .|4|5|1||1|
+241|npcompl_extsite_relinobj|60|John met the person  Mary liked the woman who was hanging out with .|3|5|||1|
+242|npcompl_extsite_relinobj|60|John met the person  the woman who was hanging out with amused Mary .|4|5|1||1|
+243|npcompl_extsite_relinobj|61|John met the person  Mary liked the woman who was spending time with .|3|5|||1|
+244|npcompl_extsite_relinobj|61|John met the person  the woman who was spending time with amused Mary .|4|5|1||1|
+245|npcompl_extsite_relinobj|62|John met the person  Mary liked the woman who was talking to .|3|5|||1|
+246|npcompl_extsite_relinobj|62|John met the person  the woman who was talking to amused Mary .|4|5|1||1|
+247|npcompl_extsite_relinobj|63|John met the person  Mary liked the woman who was fighting with .|3|5|||1|
+248|npcompl_extsite_relinobj|63|John met the person  the woman who was fighting with amused Mary .|4|5|1||1|
+249|npcompl_extsite_relinobj|64|John met the professor that Mary liked the friend who was hanging out with .|3||||1|
+250|npcompl_extsite_relinobj|64|John met the professor that the friend who was hanging out with amused Mary .|4||1||1|
+251|npcompl_extsite_relinobj|65|John met the professor that Mary liked the friend who was spending time with .|3||||1|
+252|npcompl_extsite_relinobj|65|John met the professor that the friend who was spending time with amused Mary .|4||1||1|
+253|npcompl_extsite_relinobj|66|John met the professor that Mary liked the friend who was talking to .|3||||1|
+254|npcompl_extsite_relinobj|66|John met the professor that the friend who was talking to amused Mary .|4||1||1|
+255|npcompl_extsite_relinobj|67|John met the professor that Mary liked the friend who was fighting with .|3||||1|
+256|npcompl_extsite_relinobj|67|John met the professor that the friend who was fighting with amused Mary .|4||1||1|
+257|npcompl_extsite_relinobj|68|John met the professor that Mary liked the woman who was hanging out with .|3||||1|
+258|npcompl_extsite_relinobj|68|John met the professor that the woman who was hanging out with amused Mary .|4||1||1|
+259|npcompl_extsite_relinobj|69|John met the professor that Mary liked the woman who was spending time with .|3||||1|
+260|npcompl_extsite_relinobj|69|John met the professor that the woman who was spending time with amused Mary .|4||1||1|
+261|npcompl_extsite_relinobj|70|John met the professor that Mary liked the woman who was talking to .|3||||1|
+262|npcompl_extsite_relinobj|70|John met the professor that the woman who was talking to amused Mary .|4||1||1|
+263|npcompl_extsite_relinobj|71|John met the professor that Mary liked the woman who was fighting with .|3||||1|
+264|npcompl_extsite_relinobj|71|John met the professor that the woman who was fighting with amused Mary .|4||1||1|
+265|npcompl_extsite_relinobj|72|John met the professor  Mary liked the friend who was hanging out with .|3|5|||1|
+266|npcompl_extsite_relinobj|72|John met the professor  the friend who was hanging out with amused Mary .|4|5|1||1|
+267|npcompl_extsite_relinobj|73|John met the professor  Mary liked the friend who was spending time with .|3|5|||1|
+268|npcompl_extsite_relinobj|73|John met the professor  the friend who was spending time with amused Mary .|4|5|1||1|
+269|npcompl_extsite_relinobj|74|John met the professor  Mary liked the friend who was talking to .|3|5|||1|
+270|npcompl_extsite_relinobj|74|John met the professor  the friend who was talking to amused Mary .|4|5|1||1|
+271|npcompl_extsite_relinobj|75|John met the professor  Mary liked the friend who was fighting with .|3|5|||1|
+272|npcompl_extsite_relinobj|75|John met the professor  the friend who was fighting with amused Mary .|4|5|1||1|
+273|npcompl_extsite_relinobj|76|John met the professor  Mary liked the woman who was hanging out with .|3|5|||1|
+274|npcompl_extsite_relinobj|76|John met the professor  the woman who was hanging out with amused Mary .|4|5|1||1|
+275|npcompl_extsite_relinobj|77|John met the professor  Mary liked the woman who was spending time with .|3|5|||1|
+276|npcompl_extsite_relinobj|77|John met the professor  the woman who was spending time with amused Mary .|4|5|1||1|
+277|npcompl_extsite_relinobj|78|John met the professor  Mary liked the woman who was talking to .|3|5|||1|
+278|npcompl_extsite_relinobj|78|John met the professor  the woman who was talking to amused Mary .|4|5|1||1|
+279|npcompl_extsite_relinobj|79|John met the professor  Mary liked the woman who was fighting with .|3|5|||1|
+280|npcompl_extsite_relinobj|79|John met the professor  the woman who was fighting with amused Mary .|4|5|1||1|

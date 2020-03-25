@@ -1,0 +1,19 @@
+#<block ID='ExtSite_RelInSubj'>
+#@@3@@ The [ student girl classmate person professor ] [ that @@1@@ ] he liked [ hanging_out_with spending_time_with talking_to fighting_with ] had left . 
+#@@3@@ @@2@@ The [ student girl classmate person professor ] [ that @@1@@ ] [ hanging_out_with spending_time_with talking_to fighting_with ] amused him had left .
+#</block>
+#
+<block ID='ExtSite_RelInObj'>
+John met the [ student girl classmate person professor ] [ that @@1@@ who ] Sara liked [ hanging_out_with spending_time_with talking_to fighting_with ] . 
+@@2@@ John met the [ student girl classmate person professor ] [ that @@1@@ who ] [ hanging_out_with spending_time_with talking_to fighting_with ]  amused Sara .
+</block>
+#
+#<block ID='NPCompl_ExtSite_RelInSubj'>
+#@@4@@ @@3@@ The [ student girl classmate person professor ] [ that @@1@@ ] he liked the [ friend woman ] who  was [ hanging_out_with spending_time_with talking_to fighting_with ] had left . 
+#@@4@@ @@3@@ @@2@@ The [ student girl classmate person professor ] [ that @@1@@ ] the [ friend woman ] who was [ hanging_out_with spending_time_with talking_to fighting_with ] amused him had left .
+#</block>
+#
+<block ID='NPCompl_ExtSite_RelInObj'>
+@@4@@ John met the [ student girl classmate person professor ] [ that @@1@@ ] Mary liked the [ friend woman ] who was [ hanging_out_with spending_time_with talking_to fighting_with ] .  
+@@4@@ @@2@@ John met the [ student girl classmate person professor ] [ that @@1@@ ] the [ friend woman ] who was [ hanging_out_with spending_time_with talking_to fighting_with ] amused Mary . 
+</block>
