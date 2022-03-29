@@ -1,5 +1,5 @@
 # sentence-schema-expander
-A phython script to generate sentences and sentence annotations from a sentence schema. Used to generate the data in Chowdhury Zamparelli 2018, 2019.
+A phython script to generate sentences and sentence annotations from a sentence schema. Used to generate the data in Chowdhury Zamparelli 2018, 2019, and Zamparelli at al. SEMEVAL 2022 Task 3 "PreTENS".
 
 Usage: rev-multiplier-align.py [-h] [-f FILTER] [-o OUTPUT] input
 
